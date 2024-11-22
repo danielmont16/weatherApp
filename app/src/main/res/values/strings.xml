@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string-array name="dropdown_items" >
+        <item>Toronto</item>
+        <item>Vancouver</item>
+        <item>Montreal</item>
+        <item>Calgary</item>
+        <item>Ottawa</item>
+        <item>Edmonton</item>
+        <item>Hamilton</item>
+        <item>Quebec</item>
+
+    </string-array>
+
+    <string name="dummyCity">Toronto, ON</string>
+    <string name="dummyDate">20 April 2012, 20:08 PM</string>
+    <string name="dummyStatus">Clear Sky</string>
+    <string name="dummyTemp">29°C</string>
+    <string name="temperature">Temperature</string>
+    <string name="min_temp_25">Min Temp: 25</string>
+    <string name="max_temp_25">Max Temp: 25</string>
+    <string name="sun">Sun</string>
+    <string name="sunrise_25">Sunrise: 25</string>
+    <string name="sunset_25">Sunset: 25</string>
+    <string name="wind">Wind</string>
+    <string name="speed_25">Speed: 25</string>
+    <string name="gusts_25">Gusts: 25</string>
+    <string name="atmospheric_conditions">Atmospheric conditions</string>
+    <string name="humidity_25">Humidity: 25</string>
+    <string name="pressure_25">Pressure: 25</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
+
